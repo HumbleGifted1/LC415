@@ -13,3 +13,6 @@ mySolution = Solution()
 
 result = mySolution.addStrings("69", "420")
 print(result)
+
+fail = mySolution.addStrings("aa3", "cock")
+print(fail)
